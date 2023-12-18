@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,ai.google.dev
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,clients6.google.com

@@ -1,4 +1,10 @@
 payload:
+  # Gemini
+  - DOMAIN,gemini.google.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,clients6.google.com
+
   # OpenAI
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
@@ -53,12 +59,6 @@ payload:
   - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
-
-  # Gemini
-  - DOMAIN-KEYWORD,gemini
-  - DOMAIN,ai.google.dev
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,clients6.google.com
 
   # Claude
   - DOMAIN,cdn.usefathom.com

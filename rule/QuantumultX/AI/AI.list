@@ -1,5 +1,5 @@
 # Gemini
-HOST,gemini.google.com,AI
+HOST-KEYWORD,gemini,AI
 HOST,ai.google.dev,AI
 HOST,makersuite.google.com,AI
 HOST-SUFFIX,clients6.google.com,AI

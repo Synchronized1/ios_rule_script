@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,githubcopilot
   - DOMAIN-KEYWORD,copilot-telemetry
+  - DOMAIN-KEYWORD,enterprise.mstp.online

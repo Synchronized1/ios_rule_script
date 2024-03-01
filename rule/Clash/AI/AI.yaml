@@ -4,6 +4,7 @@ payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN,generativelanguage.googleapis.com
 
   # OpenAI
   - DOMAIN,browser-intake-datadoghq.com
